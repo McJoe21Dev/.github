@@ -1,4 +1,4 @@
-## Welcome to my GitHub page
+## Welcome to our GitHub page
 
 ![whale hello there](https://i.imgur.com/HpCUYKL.gif)
 
